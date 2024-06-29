@@ -3,7 +3,6 @@ from hugchat import hugchat
 from hugchat.login import Login
 
 # App title
-st.logo('data/logo.png')
 st.title('💭Simple ChatBot🤔')
 st.divider()
 

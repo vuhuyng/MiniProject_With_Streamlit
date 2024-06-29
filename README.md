@@ -2,7 +2,7 @@
 
 This project demonstrates deploying various models using Streamlit in a black-box direction. It covers object detection, a chatbot, and word correction using Levenshtein distance. This is part of the curriculum for Week 4, Module 1: Python toward AI/DS.
 
-![hello](demo0.gif)
+![demo0.gif](https://github.com/vuhuyng/MiniProject_With_Streamlit/blob/main/demo1.gif)
 
 
 

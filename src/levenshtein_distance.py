@@ -69,6 +69,4 @@ def main():
 
 
 if __name__ == "__main__":
-    st.logo('data/logo.png')
-
     main()
